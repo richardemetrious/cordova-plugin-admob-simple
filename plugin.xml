@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	id="cordova-plugin-admob-simple"
+	id="cordova-plugin-admob-simple2"
 	version="1.2.2">
       
     <name>AdMob</name>
@@ -10,8 +10,8 @@
 	<author>Cupertino</author>
 	<license>MIT</license>
 	<keywords>admob, google, cordova-ios, cordova-android, ecosystem:cordova, android, ios, windows, money, monetization, iad, services, play, win, earn, publicity, advertisment, advertising, ads, ad, eclipse, android studio</keywords>
-    <repo>https://github.com/sunnycupertino/cordova-plugin-admob-simple.git</repo>
-    <issue>https://github.com/sunnycupertino/cordova-plugin-admob-simple/issues</issue>
+    <repo>https://github.com/richardemetrious/cordova-plugin-admob-simple.git</repo>
+    <issue>https://github.com/richardemetrious/cordova-plugin-admob-simple/issues</issue>
 
 	<engines>
 	    <engine name="cordova" version=">=3.0" />
