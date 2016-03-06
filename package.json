@@ -3,7 +3,7 @@
   "version": "1.2.2",
   "description": "Robust, reliable and easy to use Cordova Admob plugin for Android, iOS and Windows phone. Allows preloading and automatic loading of interstitials and banners plus more.",
   "cordova": {
-    "id": "cordova-plugin-admob-simple",
+    "id": "cordova-plugin-admob-simple2",
     "platforms": [
       "android",
       "ios",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunnycupertino/cordova-plugin-admob-simple.git"
+    "url": "https://github.com/richardemetrious/cordova-plugin-admob-simple.git"
   },
   "bugs": {
-    "url": "https://github.com/sunnycupertino/cordova-plugin-admob-simple/issues"
+    "url": "https://github.com/richardemetrious/cordova-plugin-admob-simple/issues"
   },
   "keywords": [
     "cordova",
